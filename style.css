@@ -183,7 +183,7 @@ body {
         height: 60%;
     }
 
-    .seccion2 {
+    .section2 {
         height: 30%;
         width: 90%;
     }
@@ -198,7 +198,7 @@ body {
 
 @media (max-width: 550px) {
 
-    .section1, .seccion2 {
+    .section1, .section2 {
         width: 100%;
     }
     .caja-texto, .contenedor-resultado p {
@@ -211,7 +211,7 @@ body {
         width: 49%;
         margin: 0;
     }
-    .seccion2 {
+    .section2 {
         padding: 1rem;
     }
 }
